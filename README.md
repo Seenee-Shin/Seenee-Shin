@@ -1,8 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=230&section=header&text=heeyeon%20Shin&fontSize=50&fontColor=ffffff&fontAlign=77&fontAlignY=40&animation)<br>
-## Fullstack Web developer in Koera
+## Full stack Web developer in Koera
 ### About me
-- 
--
+- Mainly using Java, Javascript
+- I'm still learning!
+- currently intersted in React.js
 <table>
   <thead>
     <tr>
