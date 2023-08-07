@@ -3,8 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=230&section=header&text=heeyeon%20Shin&fontSize=50&fontColor=ffffff&fontAlign=77&fontAlignY=50&animation)
  
 ### :smiley_cat: About me
- Hello! I'm Heeyeon from Korea. <br>
- I'm studing Java & Javascript and I also intersted in React.js!
+ 
 <br>
  <br>
 
